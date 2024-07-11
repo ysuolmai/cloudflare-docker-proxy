@@ -14,8 +14,6 @@ const routes = {
   "k8s.saltyfish.eu.org": "https://registry.k8s.io",
   "ghcr.saltyfish.eu.org": "https://ghcr.io",
   "cloudsmith.saltyfish.eu.org": "https://docker.cloudsmith.io",
-  "ecr.saltyfish.eu.org": "https://public.ecr.aws",
-
   // staging
   "docker-staging.saltyfish.eu.org": dockerHub,
 };
